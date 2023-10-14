@@ -12,6 +12,6 @@
 >```
 >This is to sent Hey Day greeting to the user.
 >```ruby
-echo "Hey $name"
+>echo "Hey $name"
 >```
 
